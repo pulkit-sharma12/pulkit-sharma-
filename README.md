@@ -166,7 +166,7 @@
     <p>Email: <a href="mailto:pulkitsharma1275@email.com">pulkitsharma1275@email.com</a></p>
     <p>Phone: <a href="tel:+919460604552">+91-9460604552</a></p>
     <p>LinkedIn: <a href="http://www.linkedin.com/in/pulkit-sharma-45686230a" target="_blank">http://www.linkedin.com/in/pulkit-sharma-45686230a</a></p>
-    <p>GitHub: <a href="https://github.com/pulkitsharma" target="_blank">github.com/pulkitsharma</a></p>
+    <p>GitHub: <a href="https://github.com/pulkit-sharma12/pulkit-sharma-.git" target="_blank">https://github.com/pulkit-sharma12/pulkit-sharma-.git</a></p>
   </section>
 
   <footer>
